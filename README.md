@@ -86,9 +86,9 @@ else
 }
 ```
 ## CIRCUIT DIAGRAM:
-![](PIOT_EX05-1.jpeg)
+![](https://github.com/KATHIR1611/Interfacing-IR-sensor/blob/main/iot%2011.jpeg)
 ## OUTPUT:
-![](PIOT_EX05-2.jpeg)
-![](PIOT_EX05-3.jpeg)
+![](https://github.com/KATHIR1611/Interfacing-IR-sensor/blob/main/iot%2012.jpeg)
+![](https://github.com/KATHIR1611/Interfacing-IR-sensor/blob/main/iot%2013.jpeg)
 ## RESULT:
 Thus the IR sensor module is interfaced with Arduino UNO controller and output is verified.
