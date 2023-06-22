@@ -55,7 +55,11 @@ For most of the Arduino projects, this sensor is used to detect proximity or to 
 This sensor has three pins two of which are power pins leveled VCC and GND and the other one is the sense/data pin which is shown in the diagram above. It has an onboard power LED and a signal LED the power LED turns on when power is applied to the board the signal LED turns on when the circuit is triggered. This board also has a comparator Op-amp that is responsible for converting the incoming analog signal from the photodiode to a digital signal. We also have a sensitivity adjustment potentiometer; with that, we can adjust the sensitivity of the device. Last and finally, we have the photodiode and the IR emitting LED pair which all together make the total IR Proximity Sensor Module.
 
 ## PROGRAM:
-```c
+
+Developed by : Kathirvelan.K
+
+Register number : 212221220026
+```
 #define IR_sensor 8
 #define LED 13
 int IR_value;
