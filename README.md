@@ -1,4 +1,4 @@
-# Interfacing-IR-sensor
+# EX:05 Interfacing-IR-sensor
 
 Date : 28/04/23
 
