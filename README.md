@@ -1,9 +1,12 @@
 # Interfacing-IR-sensor
 
+Date : 28/04/23
+
+
 ##  AIM:
 To Interface the IR sensor module with Arduino UNO controller.
 
-## Components required:
+## COMPONENTS REQUIRED:
 Arduino IDE </br>
 Jumper wires </br>
 Bread board </br>
